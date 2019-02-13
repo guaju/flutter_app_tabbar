@@ -40,6 +40,15 @@ flutter:
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
+  assets:
+    - images/cart.png
+    - images/cart_selected.png
+    - images/category.png
+    - images/category_selected.png
+    - images/home.png
+    - images/home_selected.png
+    - images/mine.png
+    - images/mine_selected.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
